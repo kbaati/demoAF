@@ -1,4 +1,3 @@
-# demoAF
 exemple de réalisation de 2 contrôleurs REST
 
 Create 2 REST services: one that allows to register a user and the other one that displays the details of a registered user.
@@ -17,8 +16,6 @@ Create 2 REST services: one that allows to register a user and the other one tha
 
 - have a path variable
 
-- clear code and javadoc
-
 - unit tests
 
 - only adults ( age > 18 years)  and that live in France can create an account
@@ -29,4 +26,3 @@ Create 2 REST services: one that allows to register a user and the other one tha
 
 - use AOP
 
-- documentation/UML/schemas to explain the architecture
